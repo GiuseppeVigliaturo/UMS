@@ -15,10 +15,10 @@
        }
     function getRandName() {
         $names = [
-            'ROBERTO','GIOVANNI','GIULIA','MARIO','ALE'
+            'ROBERTO','GIOVANNI','GIUSEPPE','MARIO','FRANCO'
         ];
         $lastnames = [
-            'ROSSI','RE','ARIAS','SMITH','MENDOZA','CRUZ','WILDE'
+            'ROSSI','RE','VERDI','SMITH','MENDOLA','PRIELLO','PEZZALI'
 
         ];
 
